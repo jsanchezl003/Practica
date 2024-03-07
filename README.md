@@ -58,5 +58,5 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md
 
 ## Funcionamiento
 
-https://github.com/jsanchezl003/Practica/issues/1#issue-2174692205
+![imagen](https://github.com/jsanchezl003/Practica/assets/86172887/202e263b-0e2a-4ff0-957f-5ae290d5e4af)
 
