@@ -56,5 +56,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md
 * Agradecimiento especial a todos los que contribuyen a mantener los compiladores de C++ actualizados y accesibles.
 * Inspiración para seguir creando proyectos educativos en el mundo de la programación.
 
+## Funcionamiento
 
+https://github.com/jsanchezl003/Practica/issues/1#issue-2174692205
 
